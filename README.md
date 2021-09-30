@@ -1,7 +1,7 @@
 # Futurama Character
 
 ## Description 
-API (Link)[https://api.sampleapis.com/futurama/characters]
+API [Link](https://api.sampleapis.com/futurama/characters)
 
 ![futurama_SS](./public/assets/futurama_SS.jpg)
 
